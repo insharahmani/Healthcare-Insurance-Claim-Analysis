@@ -51,9 +51,12 @@ This project focuses on **analyzing healthcare claims data** to extract key insi
 ### 🧩 Folder Structure  
 📁 data/
 └── ABC Healthcare Company Claims Dataset.xlsx
+
 📁 dashboard/
 └── Health Care Analysis-Dashboard.twbx
+
 📄 README.md
+
 
 ---
 
