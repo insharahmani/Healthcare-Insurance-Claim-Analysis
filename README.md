@@ -21,7 +21,7 @@ This project focuses on **analyzing healthcare claims data** to extract key insi
 ### ⚙️ Tools & Technologies  
 | Tool | Purpose |
 |------|----------|
-| 🧾 **Excel / Python** | Data cleaning & preprocessing |
+| 🧾 **Excel** | Data cleaning & preprocessing |
 | 📈 **Tableau** | Dashboard design & visualization |
 | 🏢 **Healthcare Claims Data** | Real-world dataset simulation |
 
